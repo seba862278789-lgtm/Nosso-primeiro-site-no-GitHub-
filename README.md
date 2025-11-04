@@ -1,4 +1,4 @@
-# Nosso-primeiro-site-no-GitHub-
+![1762240327261](https://github.com/user-attachments/assets/eb53d485-e74a-4c8e-9c0c-5065f140929d)# Nosso-primeiro-site-no-GitHub-
 Nosso primeiro site no GitHub <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -355,10 +355,6 @@ Nosso primeiro site no GitHub <!DOCTYPE html>
     </section>
   </div>
 
-  <footer>
-    <p>© 2025 Restaurante Sabor & Tradição</p>
-    <p class="nomes">Criado por: Edmilson Emílio Jamal | Emir Alberto | Mateus</p>
-  </footer>
+  <fo![Uploading 17![IMG_20251104_085741_468](https://github.com/user-attachments/assets/56c00d7d-a888-43d2-8477-be1e4297b259)
+62240327261.jpg…]()
 
-</body>
-</html>
